@@ -26,6 +26,3 @@ db = 'test';
 user = 'test';
 password = 'Hq3bCIUsMxSPNRCD';
 
-
-# simple-mvc-guest-book
-
