@@ -176,10 +176,10 @@
       <screen x="64" y="27" width="2496" height="1413" />
     </state>
     <state x="907" y="395" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/64.27.2496.1413/2560.0.1920.1080@64.27.2496.1413" timestamp="1579046828595" />
-    <state x="875" y="240" width="864" height="994" key="CommitChangelistDialog2" timestamp="1579104505291">
+    <state x="875" y="240" width="864" height="994" key="CommitChangelistDialog2" timestamp="1579104525546">
       <screen x="64" y="27" width="2496" height="1413" />
     </state>
-    <state x="875" y="240" width="864" height="994" key="CommitChangelistDialog2/64.27.2496.1413/2560.0.1920.1080@64.27.2496.1413" timestamp="1579104505291" />
+    <state x="875" y="240" width="864" height="994" key="CommitChangelistDialog2/64.27.2496.1413/2560.0.1920.1080@64.27.2496.1413" timestamp="1579104525546" />
     <state x="280" y="160" width="1996" height="1167" key="DiffContextDialog" timestamp="1579104486962">
       <screen x="64" y="27" width="2496" height="1413" />
     </state>
@@ -188,6 +188,10 @@
       <screen x="64" y="27" width="2496" height="1413" />
     </state>
     <state x="1107" y="655" width="399" height="164" key="NewPhpFileDialog/64.27.2496.1413/2560.0.1920.1080@64.27.2496.1413" timestamp="1579099616570" />
+    <state x="762" y="447" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1579104548736">
+      <screen x="64" y="27" width="2496" height="1413" />
+    </state>
+    <state x="762" y="447" width="800" height="543" key="Vcs.Push.Dialog.v2/64.27.2496.1413/2560.0.1920.1080@64.27.2496.1413" timestamp="1579104548736" />
     <state x="966" y="561" key="com.intellij.ide.util.TipDialog" timestamp="1579089536099">
       <screen x="64" y="27" width="2496" height="1413" />
     </state>
