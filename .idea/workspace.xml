@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f208f43-fb1d-4f0f-80e4-3988d72637d0" name="Default Changelist" comment="finish">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/controller_404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/controller_guestbook.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/controller_main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/core/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/core/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/core/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/core/Route.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/core/View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/model_guestbook.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/404_view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/_form_view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/_messages_view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/guestbook_view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/main_view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/template_view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style-404.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cap_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-3.1.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$_instance</find>
+      <find>postsModel</find>
+      <find>wrapper</find>
+      <find>header</find>
+      <find>content</find>
+      <find>ба</find>
+      <find>mode</find>
+      <find>$data</find>
+      <find>data</find>
+      <find>action</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>result</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectId" id="1WQl7E8wty6NySoxNAAsxtgUSFv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\_\test\img" />
+      <recent name="D:\_\test" />
+      <recent name="D:\_\test\application\controllers" />
+      <recent name="D:\_\test\application\core" />
+      <recent name="D:\_\test\application\models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\_\test\application\img" />
+      <recent name="D:\_\test\application\models" />
+      <recent name="D:\_\test\application\views" />
+      <recent name="D:\_\test\application\controllers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f208f43-fb1d-4f0f-80e4-3988d72637d0" name="Default Changelist" comment="" />
+      <created>1489626625134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489626625134</updated>
+      <workItem from="1489626657443" duration="11627000" />
+      <workItem from="1489680754397" duration="2671000" />
+      <workItem from="1489687469335" duration="7865000" />
+      <workItem from="1489706326326" duration="10663000" />
+      <workItem from="1489751437822" duration="30951000" />
+      <workItem from="1489843297355" duration="5553000" />
+      <workItem from="1489882821489" duration="3415000" />
+      <workItem from="1489887776273" duration="449000" />
+      <workItem from="1489994332201" duration="219000" />
+      <workItem from="1579089536877" duration="11560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="907" y="395" width="800" height="684" key="#SQL_Dialects" timestamp="1579046630591">
+      <screen x="64" y="27" width="2496" height="1413" />
+    </state>
+    <state x="907" y="395" width="800" height="684" key="#SQL_Dialects/64.27.2496.1413/2560.0.1920.1080@64.27.2496.1413" timestamp="1579046630591" />
+    <state x="907" y="395" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579046828595">
+      <screen x="64" y="27" width="2496" height="1413" />
+    </state>
+    <state x="907" y="395" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/64.27.2496.1413/2560.0.1920.1080@64.27.2496.1413" timestamp="1579046828595" />
+    <state x="875" y="240" width="864" height="994" key="CommitChangelistDialog2" timestamp="1579104505291">
+      <screen x="64" y="27" width="2496" height="1413" />
+    </state>
+    <state x="875" y="240" width="864" height="994" key="CommitChangelistDialog2/64.27.2496.1413/2560.0.1920.1080@64.27.2496.1413" timestamp="1579104505291" />
+    <state x="280" y="160" width="1996" height="1167" key="DiffContextDialog" timestamp="1579104486962">
+      <screen x="64" y="27" width="2496" height="1413" />
+    </state>
+    <state x="280" y="160" width="1996" height="1167" key="DiffContextDialog/64.27.2496.1413/2560.0.1920.1080@64.27.2496.1413" timestamp="1579104486962" />
+    <state x="1107" y="655" width="399" height="164" key="NewPhpFileDialog" timestamp="1579099616570">
+      <screen x="64" y="27" width="2496" height="1413" />
+    </state>
+    <state x="1107" y="655" width="399" height="164" key="NewPhpFileDialog/64.27.2496.1413/2560.0.1920.1080@64.27.2496.1413" timestamp="1579099616570" />
+    <state x="966" y="561" key="com.intellij.ide.util.TipDialog" timestamp="1579089536099">
+      <screen x="64" y="27" width="2496" height="1413" />
+    </state>
+    <state x="966" y="561" key="com.intellij.ide.util.TipDialog/64.27.2496.1413/2560.0.1920.1080@64.27.2496.1413" timestamp="1579089536099" />
+    <state x="975" y="349" width="672" height="678" key="search.everywhere.popup" timestamp="1579051419315">
+      <screen x="64" y="27" width="2496" height="1413" />
+    </state>
+    <state x="975" y="349" width="672" height="678" key="search.everywhere.popup/64.27.2496.1413/2560.0.1920.1080@64.27.2496.1413" timestamp="1579051419315" />
+  </component>
+</project>

@@ -1,16 +1,27 @@
 # Simple-MVC-Guestbook
+Тестовое задание по написанию простой гостевой книги без использования фреймворков. В качестве упрощения отсутствует функционал авторизации и аутентификации.
 
-Тестовое задание по написанию простой гостевой книги без использования фреймворков. В качестве упрощения отсутствует функционал авторизации и аутентификации (в админку может попасть любой желающий).
+В процессе разработки использовано :<br> 
+<b>Ubuntu 19.10 с php7</b><br>
+<b>Apache2</b><br>
+<b>Mariadb 10.4.11</b><br>
+<b>В apache2 должна быть включена поддержа файлов .htaccess и mod rewrite</b>
 
-В процессе разработки я использовал virtualbox c ubuntu server 16 на которой был поставлен php7 (функционал php7 в примере не используется), apache2 и mysql 5.7, в apache2 должна быть включена поддержа файлов .htaccess.
 
-Дамп базы - test.sql
+Структура таблицы гостевой книги:
+
+CREATE TABLE `guest_book` (
+`id` INT(11) UNSIGNED NOT NULL AUTO_INCREMENT,
+`dtime` DATETIME NOT NULL,
+`name` VARCHAR(255) NOT NULL COLLATE 'utf8_unicode_ci',
+`body` TEXT NOT NULL COLLATE 'utf8_unicode_ci',
+PRIMARY KEY (`id`),
+INDEX `dtime` (`dtime`)
+) COLLATE='utf8_unicode_ci' ENGINE=InnoDB;
+
 
 Настройки mysql:
 
 db = 'test';
-user = 'root';
-password = 'qwerty';
-
-P.S. Ну и естественно, что этот код можно значительно улучшить. Задание демонстрирует только основные принципы работы.
-# simple-mvc-guest-book
+user = 'test';
+password = 'Hq3bCIUsMxSPNRCD';
