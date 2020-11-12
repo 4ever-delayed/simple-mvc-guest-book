@@ -3,7 +3,7 @@
 class Route
 {
 
-    static function init()
+    public static function init()
     {
         $controller_name = 'Main';
         $action_name = 'index';
@@ -48,7 +48,7 @@ class Route
         }
     }
 
-    static function ErrorPage404()
+    public static function ErrorPage404()
     {
         $host = 'http://' . $_SERVER['HTTP_HOST'] . '/';
         header('HTTP/1.1 404 Not Found');
